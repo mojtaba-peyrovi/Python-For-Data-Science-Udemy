@@ -1,0 +1,201 @@
+item,Status,Broker,premium,profit,insurer,class,month
+1-06 Pla,PAY-Installment,MoneyGuru,16160,2348,SouthEast,1,Jan
+1-05 Give,PAYMENT,MoneyGuru,9900,1843,Allianz C.P.,1,Jan
+1-03 Muay,PAYMENT,MoneyGuru,9200,1970,MSIG,1,Jan
+1-01 Bel,PAYMENT,Connect,5816,1419,KSK,1,Jan
+1-03 Muay,PAYMENT,MoneyGuru,14000,1766,Chaophaya,1,Jan
+1-06 Pla,PAYMENT,MoneyGuru,19500,2102,Viriyah,1,Jan
+1-04 Pook,PAYMENT,MoneyGuru,6600,906,Viriyah,1,Jan
+1-04 Pook,PAYMENT,Connect,12988,1388,LMG,3+,Jan
+1-04 Pook,PAYMENT,MoneyGuru,8151,1251,Bangkok,2+,Jan
+1-01 Bel,PAYMENT,MoneyGuru,13000,1662,Chaophaya,1,Jan
+1-06 Pla,PAYMENT,MoneyGuru,9011,1233,Viriyah,1,Jan
+1-01 Bel,PAYMENT,MoneyGuru,12800,2740,Siamcity,1,Jan
+1-05 Give,PAY-Installment,Connect,11766,2080,Deves,1,Jan
+1-03 Muay,PAY-Installment,MoneyGuru,13101,2438,SouthEast,1,Jan
+1-06 Pla,PAYMENT,MoneyGuru,19000,1218,Viriyah,1,Jan
+1-04 Pook,PAYMENT,MoneyGuru,1699,443,Asia,1,Jan
+1-05 Give,PAYMENT,MoneyGuru,19252,3162,Mittare,2+,Jan
+1-01 Bel,PAYMENT,Connect,13500,1510,Muang Thai,1,Jan
+1-01 Bel,PAYMENT,MoneyGuru,6300,1290,AXA,1,Jan
+1-04 Pook,PAYMENT,MoneyGuru,8900,1657,Allianz C.P.,2+,Jan
+1-03 Muay,PAYMENT,MoneyGuru,13000,2283,Siamcity,1,Jan
+1-03 Muay,PAY-Installment,Connect,5751,1178,KSK,1,Jan
+1-05 Give,PAY-Installment,MoneyGuru,13500,2764,Chaophaya,1,Jan
+1-06 Pla,PAYMENT,MoneyGuru,13451,2880,Bangkok,1,Jan
+1-05 Give,PAYMENT,MoneyGuru,12000,2134,Siamcity,1,Jan
+1-06 Pla,PAYMENT,MoneyGuru,12560,2785,Bangkok,1,Jan
+1-03 Muay,PAY-Installment,MoneyGuru,13667,2512,SouthEast,1,Jan
+1-06 Pla,PAYMENT,Connect,11742,1333,Muang Thai,1,Jan
+1-03 Muay,PAY-Installment,MoneyGuru,12301,2333,Bangkok,1,Jan
+1-06 Pla,PAY-Installment,MoneyGuru,8900,1491,Viriyah,1,Jan
+1-03 Muay,PAY-Installment,Connect,10890,2459,KSK,2+,Jan
+1-03 Muay,PAY-Installment,MoneyGuru,14500,3104,Siamcity,1,Jan
+1-03 Muay,PAYMENT,MoneyGuru,14814,2049,Allianz C.P.,1,Jan
+1-03 Muay,PAY-Installment,MoneyGuru,9999,1740,Thai Setakij,1,Jan
+1-04 Pook,PAYMENT,Connect,13965,1029,Muang Thai,1,Jan
+1-03 Muay,PAY-Installment,MoneyGuru,9151,1959,Bangkok,1,Jan
+1-04 Pook,PAYMENT,Connect,14678,1423,Muang Thai,1,Jan
+1-04 Pook,PAYMENT,MoneyGuru,27083,3715,Bangkok,1,Jan
+1-06 Pla,PAYMENT,MoneyGuru,21499,2103,Viriyah,1,Jan
+1-03 Muay,PAY-Installment,MoneyGuru,17876,2186,SouthEast,1,Jan
+1-03 Muay,PAY-Installment,MoneyGuru,16500,3072,SouthEast,1,Jan
+1-06 Pla,PAYMENT,MoneyGuru,9151,1108,Bangkok,1,Jan
+1-06 Pla,PAY-Installment,MoneyGuru,7500,1466,SouthEast,1,Jan
+1-03 Muay,PAYMENT,MoneyGuru,18775,3122,AXA,1,Jan
+1-01 Bel,PAYMENT,MoneyGuru,21800,2824,Bangkok,2+,Jan
+1-04 Pook,PAY-Installment,Connect,13200,2212,Safety,1,Jan
+1-06 Pla,PAY-Installment,MoneyGuru,51489,8854,Phoenix insurance,1,Jan
+1-06 Pla,PAYMENT,MoneyGuru,8144,1056,Bangkok,1,Jan
+1-04 Pook,PAYMENT,Connect,20623,2627,Dhipaya,1,Jan
+1-01 Bel,PAYMENT,MoneyGuru,14000,1464,Dhipaya,1,Jan
+1-06 Pla,PAY-Installment,MoneyGuru,28406,4211,Chaophaya,1,Jan
+1-04 Pook,PAYMENT,MoneyGuru,13600,2277,Siamcity,1,Jan
+1-06 Pla,PAY-Installment,MoneyGuru,6900,1927,Asia,1,Jan
+1-03 Muay,PAYMENT,Connect,38587,2719,Muang Thai,1,Jan
+1-03 Muay,PAY-Installment,Connect,12500,1594,Deves,2+,Jan
+1-04 Pook,PAYMENT,MoneyGuru,6300,990,AXA,1,Jan
+1-04 Pook,PAYMENT,MoneyGuru,7400,1522,Navakij,1,Jan
+1-06 Pla,PAYMENT,MoneyGuru,13000,1562,Chaophaya,2+,Jan
+1-06 Pla,PAYMENT,MoneyGuru,13000,2221,Chaophaya,2+,Jan
+1-04 Pook,PAYMENT,MoneyGuru,16200,3016,SouthEast,1,Jan
+1-03 Muay,PAYMENT,MoneyGuru,9150,1765,Bangkok,1,Jan
+1-04 Pook,PAY-Installment,MoneyGuru,13000,2993,Siamcity,1,Jan
+1-03 Muay,PAYMENT,MoneyGuru,12645,2327,Siamcity,1,Jan
+1-04 Pook,PAY-Installment,MoneyGuru,9150,1808,Bangkok,1,Jan
+1-04 Pook,PAY-Installment,MoneyGuru,16913,2655,Viriyah,1,Jan
+1-06 Pla,PAYMENT,MoneyGuru,9999,1739,Thai Setakij,1,Jan
+1-06 Pla,PAY-Installment,MoneyGuru,14000,2106,SouthEast,1,Jan
+1-06 Pla,PAY-Installment,Connect,12067,1230,Mittare,1,Jan
+1-06 Pla,PAYMENT,MoneyGuru,18553,1935,SouthEast,1,Jan
+1-04 Pook,PAYMENT,MoneyGuru,13751,1509,SouthEast,1,Jan
+1-04 Pook,PAYMENT,Connect,5812,1418,KSK,1,Jan
+1-01 Bel,PAYMENT,MoneyGuru,6300,1290,AXA,1,Jan
+1-06 Pla,PAY-Installment,MoneyGuru,5900,1860,Asia,1,Jan
+1-06 Pla,PAYMENT,MoneyGuru,33000,5323,SouthEast,1,Jan
+1-03 Muay,PAYMENT,MoneyGuru,14900,2790,Siamcity,2+,Jan
+1-04 Pook,PAYMENT,MoneyGuru,17000,2183,Viriyah,2+,Jan
+1-03 Muay,PAYMENT,MoneyGuru,13371,1921,SouthEast,1,Jan
+1-06 Pla,PAYMENT,MoneyGuru,16210,2270,Navakij,1,Jan
+1-04 Pook,PAY-Installment,MoneyGuru,24000,3638,Phoenix insurance,1,Feb
+1-06 Pla,PAYMENT,MoneyGuru,14500,3314,Siamcity,1,Feb
+1-06 Pla,PAY-Installment,Connect,13500,2010,Muang Thai,1,Feb
+1-06 Pla,PAY-Installment,MoneyGuru,12529,2127,SouthEast,1,Feb
+1-04 Pook,PAYMENT,MoneyGuru,7400,1722,Navakij,1,Feb
+1-03 Muay,PAYMENT,MoneyGuru,6900,1206,Navakij,1,Feb
+1-03 Muay,PAYMENT,Connect,5751,827,KSK,1,Feb
+1-04 Pook,PAYMENT,MoneyGuru,28000,3713,SouthEast,2+,Feb
+1-04 Pook,PAYMENT,MoneyGuru,13242,1423,SouthEast,2+,Feb
+1-04 Pook,PAY-Installment,Connect,33705,3315,Muang Thai,1,Feb
+1-06 Pla,PAY-Installment,MoneyGuru,14000,2866,Chaophaya,1,Feb
+1-06 Pla,PAY-Installment,MoneyGuru,15500,2597,Viriyah,1,Feb
+1-06 Pla,PAY-Installment,MoneyGuru,13147,2401,SouthEast,1,Feb
+1-06 Pla,PAYMENT,MoneyGuru,10355,1596,AXA,1,Feb
+1-01 Bel,PAYMENT,Connect,12191,1039,Muang Thai,1,Feb
+1-04 Pook,PAYMENT,MoneyGuru,7800,1923,Navakij,1,Feb
+1-01 Bel,PAY-Installment,MoneyGuru,13000,2662,Chaophaya,1,Feb
+1-04 Pook,PAY-Installment,MoneyGuru,15000,1616,Viriyah,1,Feb
+1-06 Pla,PAYMENT,MoneyGuru,9150,1959,Bangkok,1,Feb
+1-01 Bel,PAYMENT,MoneyGuru,9610,1947,Bangkok,2+,Feb
+1-03 Muay,PAYMENT,MoneyGuru,12064,1921,AXA,1,Feb
+1-01 Bel,PAY-Installment,MoneyGuru,15500,2132,Viriyah,1,Feb
+1-04 Pook,PAYMENT,MoneyGuru,499,139,Asia,1,Feb
+1-06 Pla,PAYMENT,Connect,15532,1696,Muang Thai,1,Feb
+1-06 Pla,PAYMENT,MoneyGuru,1853,344,MSIG,1,Feb
+1-06 Pla,PAY-Installment,Connect,33431,2548,Muang Thai,1,Feb
+1-04 Pook,PAY-Installment,MoneyGuru,14702,3172,MSIG,3+,Feb
+1-03 Muay,PAYMENT,MoneyGuru,12500,2440,Asia,1,Feb
+1-03 Muay,PAYMENT,MoneyGuru,13209,1855,Chaophaya,3,Feb
+1-03 Muay,PAY-Installment,MoneyGuru,12500,2327,Asia,1,Feb
+1-06 Pla,PAYMENT,MoneyGuru,16500,3033,Bangkok,1,Feb
+1-03 Muay,PAY-Installment,MoneyGuru,13000,2662,Chaophaya,1,Feb
+1-04 Pook,PAY-Installment,Connect,11578,2011,Deves,1,Feb
+1-04 Pook,PAY-Installment,MoneyGuru,8800,2178,MSIG,1,Feb
+1-06 Pla,PAY-Installment,MoneyGuru,13500,2564,Chaophaya,1,Feb
+1-06 Pla,PAY-Installment,MoneyGuru,13500,2513,Asia,1,Feb
+1-03 Muay,PAYMENT,MoneyGuru,21959,2620,Viriyah,1,Feb
+1-01 Bel,PAY-Installment,MoneyGuru,17234,2488,Viriyah,2+,Feb
+1-06 Pla,PAY-Installment,MoneyGuru,6300,1317,AXA,1,Feb
+1-04 Pook,PAYMENT,MoneyGuru,18536,2414,Navakij,1,Feb
+1-04 Pook,PAY-Installment,Connect,6999,1073,Safety,1,Feb
+1-06 Pla,PAYMENT,MoneyGuru,16000,2014,SouthEast,1,Feb
+1-04 Pook,PAYMENT,MoneyGuru,17577,2195,SouthEast,2+,Feb
+1-01 Bel,PAYMENT,MoneyGuru,17000,2165,SouthEast,1,Feb
+1-03 Muay,PAY-Installment,MoneyGuru,5900,1648,Asia,2+,Feb
+1-03 Muay,PAYMENT,Connect,12865,1369,KSK,1,Feb
+1-03 Muay,PAY-Installment,MoneyGuru,8277,1095,Bangkok,1,Feb
+1-06 Pla,PAYMENT,MoneyGuru,17531,2541,Viriyah,1,Feb
+1-01 Bel,PAY-Installment,Connect,12567,1539,Deves,2+,Feb
+1-04 Pook,PAY-Installment,MoneyGuru,18049,1845,SouthEast,1,Feb
+1-04 Pook,PAYMENT,Connect,11591,1251,Deves,1,Feb
+1-03 Muay,PAY-Installment,MoneyGuru,7200,1541,MSIG,1,Feb
+1-06 Pla,PAY-Installment,MoneyGuru,13519,2297,SouthEast,1,Feb
+1-06 Pla,PAY-Installment,MoneyGuru,8800,1884,Bangkok,1,Feb
+1-03 Muay,PAYMENT,MoneyGuru,2831,716,MSIG,1,Feb
+1-03 Muay,PAYMENT,MoneyGuru,18000,2351,SouthEast,2+,Feb
+1-03 Muay,PAY-Installment,MoneyGuru,7500,1536,AXA,1,Feb
+1-06 Pla,PAYMENT,MoneyGuru,6900,1927,Asia,2+,Feb
+1-01 Bel,PAY-Installment,MoneyGuru,6900,1206,Navakij,3,Feb
+1-04 Pook,PAYMENT,MoneyGuru,16000,1790,Siamcity,1,Feb
+1-06 Pla,PAY-Installment,MoneyGuru,9500,2034,Bangkok,2+,Feb
+1-06 Pla,PAYMENT,MoneyGuru,12065,1491,Viriyah,2+,Feb
+1-04 Pook,PAYMENT,MoneyGuru,9611,2159,Bangkok,2+,Feb
+1-01 Bel,PAY-Installment,MoneyGuru,9800,1481,Allianz C.P.,1,Feb
+1-04 Pook,CANCEL,MoneyGuru,9150,1509,Bangkok,2+,Feb
+1-04 Pook,PAYMENT,Connect,2500,219,Deves,1,Feb
+1-04 Pook,PAYMENT,MoneyGuru,6499,1536,Asia,1,Feb
+1-04 Pook,PAYMENT,MoneyGuru,5900,1648,Asia,2+,Feb
+1-04 Pook,PAY-Installment,MoneyGuru,14500,2269,Siamcity,1,Feb
+1-06 Pla,PAY-Installment,MoneyGuru,12500,1940,Asia,3,Feb
+1-03 Muay,PAYMENT,MoneyGuru,5900,1648,Asia,2+,Feb
+1-03 Muay,PAYMENT,MoneyGuru,24000,2083,SouthEast,2+,Feb
+1-06 Pla,PAYMENT,MoneyGuru,18000,2530,SouthEast,1,Feb
+1-03 Muay,PAY-Installment,MoneyGuru,9999,2699,Thai Setakij,1,Feb
+1-06 Pla,PAY-Installment,Connect,5999,706,Safety,2+,Feb
+1-06 Pla,PAY-Installment,Connect,11830,2054,Deves,1,Feb
+1-04 Pook,PAYMENT,Connect,8699,811,Muang Thai,1,Feb
+1-06 Pla,PAY-Installment,MoneyGuru,13000,3031,Siamcity,1,Feb
+1-03 Muay,PAY-Installment,MoneyGuru,13000,2162,Chaophaya,3+,Feb
+1-03 Muay,PAYMENT,MoneyGuru,19000,2537,SouthEast,1,Feb
+1-04 Pook,PAYMENT,MoneyGuru,14000,2167,Chaophaya,2+,Feb
+1-04 Pook,PAY-Installment,MoneyGuru,9150,1958,Bangkok,1,Feb
+1-04 Pook,PAYMENT,Connect,11768,2141,KSK,1,Feb
+1-03 Muay,PAY-Installment,MoneyGuru,7499,1795,Asia,1,Feb
+1-06 Pla,PAY-Installment,MoneyGuru,12675,2477,Samaggi/ACE,1,Feb
+1-06 Pla,PAY-Installment,MoneyGuru,11539,2096,Asia,1,Feb
+1-06 Pla,PAY-Installment,MoneyGuru,15000,2111,Siamcity,1,Feb
+1-06 Pla,PAY-Installment,Connect,10873,1353,KSK,2+,Feb
+1-04 Pook,PAY-Installment,Connect,14048,1912,KSK,1,Feb
+1-04 Pook,PAY-Installment,Connect,14499,1930,Deves,1,Feb
+1-04 Pook,PAYMENT,Connect,24708,3386,Muang Thai,1,Feb
+1-01 Bel,PAY-Installment,MoneyGuru,14025,2813,AXA,1,Feb
+1-04 Pook,PAYMENT,MoneyGuru,25874,3466,Phoenix insurance,1,Feb
+1-03 Muay,PAY-Installment,MoneyGuru,8800,1884,MSIG,1,Feb
+1-03 Muay,PAY-Installment,Connect,7200,1206,Deves,1,Feb
+1-06 Pla,PAYMENT,MoneyGuru,13600,2312,Siamcity,1,Feb
+1-03 Muay,PAYMENT,Connect,14889,1700,Dhipaya,1,Feb
+1-03 Muay,PAYMENT,MoneyGuru,7400,1322,Allianz C.P.,2+,Mar
+1-04 Pook,PAY-Installment,MoneyGuru,7800,1815,Navakij,2+,Mar
+1-04 Pook,PAYMENT,MoneyGuru,7900,1506,Asia,1,Mar
+1-06 Pla,PAYMENT,Connect,10147,1513,KSK,1,Mar
+1-03 Muay,PAYMENT,Connect,13418,1030,Deves,2+,Mar
+1-04 Pook,PAYMENT,MoneyGuru,15137,1860,Bangkok,2+,Mar
+1-06 Pla,CANCEL,MoneyGuru,0,,Bangkok,2+,Mar
+1-01 Bel,PAYMENT,Connect,13500,1425,Muang Thai,1,Mar
+1-04 Pook,PAY-Installment,Connect,10852,2222,KSK,1,Mar
+1-03 Muay,PAYMENT,MoneyGuru,13600,1912,Siamcity,1,Mar
+1-06 Pla,PAY-Installment,Connect,12840,2111,Deves,1,Mar
+1-06 Pla,PAYMENT,Connect,34914,5836,LMG,1,Mar
+1-01 Bel,PAY-Installment,Connect,13965,1030,Muang Thai,1,Mar
+1-06 Pla,PAY-Installment,MoneyGuru,13468,2039,SouthEast,1,Mar
+1-04 Pook,PAY-Installment,MoneyGuru,7754,1660,Bangkok,1,Mar
+1-06 Pla,PAYMENT,Connect,16000,2097,Muang Thai,1,Mar
+1-01 Bel,PAYMENT,MoneyGuru,9000,2178,Chaophaya,1,Mar
+1-03 Muay,PAY-Installment,MoneyGuru,5900,1648,Asia,1,Mar
+1-04 Pook,PAY-Installment,Connect,14500,1660,Muang Thai,1,Mar
+1-04 Pook,PAYMENT,MoneyGuru,7500,1463,AXA,1,Mar
+1-04 Pook,PAYMENT,Connect,10460,2142,KSK,2+,Mar
+,,,,,,2+,Mar
+,,,,,,1,Mar
+,,,,,,2+,Mar
+,,,,,,1,Mar

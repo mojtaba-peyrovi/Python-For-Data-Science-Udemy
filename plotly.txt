@@ -1,0 +1,24 @@
+Plotly & Cufflinks:
+PLotly is so cool. it can show data visualisation charts online using some javascript and make charts niceer.
+how to call it?
+import pandas as pd
+import numpy as np
+from plotly import __version__
+%matplotlib inline
+import cufflinks as cf
+from plotly.offline import download_plotlyjs,init_notebook_mode,plot,iplot
+init_notebook_mode(connected=True)
+cf.go_offline()
+
+then to use it we just say: df.iplot()
+
+parameters:
+df.iplot(kind='scatter',x='A',y='B',mode='markers')  ==> without markers, python will make linear plot as default.(connects all dots with line)
+ (Data types in a  df:  categorical or numerical)
+df.sum().iplot(kind='bar') ==> sum() is an aggregate function that we use for numerical data types for using some specific plot types such as bar part that require categrical  data.
+df.sum().iplot(kind='box') ==> it does the aggregation itselfs. so we can use numerical data.
+df3.iplot(kind='surface',colorscale='rdylbu') ==> needs a dataframe of 3 dimension data.
+df['A'].iplot(kind='hist',bins=25)==> makes histogram.  => bins is optional. there are other parameters too.
+df[['A','B']].iplot(kind='spread') ==> shows the spread of columns A , B and we can compare them. its useful for stock data.
+df.iplot(kind='bubble',x='A',y='B',size='C') ==> makes bubble plots. the size of the bubbles are based on a third variable.  UN reports use this type so much.
+

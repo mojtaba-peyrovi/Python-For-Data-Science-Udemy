@@ -1,0 +1,5 @@
+Pandas Data visualization built-in functions:
+
+df.plot.hist()
+df.plot.area(alpha=0.4)
+df.plot.bar(stack=True) ==> stack will stack up all vasriables on the top of each other
