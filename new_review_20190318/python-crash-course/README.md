@@ -246,4 +246,52 @@ def square(num):
     return num**2
 my_var = square(3)   // assigns 9 to my_var  
 ```
+__Map Function:__ we can map a function to a list and return it as a list:
+```
+lst = [1,2,3,4]
+def square(num):
+    return num**2
+list(map(square, lst))   // returns [1,4,9,16]    
+```
+__Lambda:__ We can make the list above, without separately defining the function. like this:
+```
+lst = [1,2,3,4]
+list(map(lambda x:x**2, lst))  // returns [1,4,9,16]
+```
+__Filter:__ We can filter the list using a condition:
+```
+list(filter(lambda x: x%2 == 0, lst))  // returns even values in the list
+```
+__Methods:__  Methods are predefined functions we can call off of an object, using a dot, like this:
 
+```
+s = 'my name is John Doe'
+s.upper()   // returns  'MY NAME IS JOHN DOE'
+```
+__Split() Method:__ It can put all words in a string into a list:
+```
+s = 'hi, my name is John Doe'
+s.split()    // returns ['hi,', 'my', 'name', 'is', 'John', 'Doe']
+```
+We can also pass some parameters into the split() method, like this:
+```
+tweet = 'Go Sport! #sport'
+tweet.split('#')[1]   //returns sport
+```
+__in:__ we can check if a value is in a list:
+```
+x in [1,2,3,4]  // returns 'False'
+x in ['x','y','z']   // returns 'True'
+```
+__Tuple unpacking:__ It's very useful in py, because so many functions return the results in a list of tuples. When we have the list of tuples we can unpack them:
+````
+x = [(1,2),(3,4),(5,6)]
+for a,b in x:
+    print(a)   
+````
+output:
+```
+1
+3
+5
+```
