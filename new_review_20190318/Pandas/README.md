@@ -97,6 +97,63 @@ df.loc['A','W']   // returns the value in row A and columns W
 ```
 df.loc[['A','B'],['W','Z']]
 ```
+10- We can compare all cells in the dataframe, with a single number and it returns a dataframe of booleans.
+```
+df > 0  // returns the dataframe, and for each cell, if it is greater than zero, it returns True and False otherwise.
+```
+Now if we pass df > 0 inside df, we get the dataframe back and wherever the condition is true it returns the value, and if it is false it returns `NaN`
+```
+df[df > 0]
+```
+__SO USEFUL:__ It happens in real world conditions, that we want to have only the rows, where a specific column has a condition and if the condition is not true, we want to row to be cut off. We do it like this:
+```
+df[df['W'] > 0] // returns the rows where column W has positive value.
+```
+Since, the result of the expression above, is a dataframe itself, we can do all dataframe operations on that as well, like:
+```
+df[df['W'] > 0]['X'] // returns only column x of the new dataframe
+```
+or:
+```
+df[df['W'] > 0]][['X','Y']] //returns columns x,y of the new dataframe
+```
+11- When we want to return the values, where multiple conditions are true: for example:
+```
+df [ (df['W'] > 0) & (df['X'] < 0) ] // returns only the rows where both conditions are true.
+```
+Also, for __OR__ condition, we use pipe (|).
+
+12- In order to reset index into numerical values, we can say:
+```
+df.reset_index(inpace=True)
+```
+Also we can create a list of indexes we want, and assign them to the dataframe. 
+```
+new_index = 'CA NY WY OR CO'.split()  // returns ['CA','NY','WY','OR','CO'] 
+df['State'] = new_index   // adds the values as a new column
+df.set_index('State')  // sets the new columns as the index
+```
+
+13- groupby: we can see in group-by-table.jpg, we can group the data by company name:
+```
+byComp = df.groupby('company')  // returns a grouby object
+```
+Now we can call an aggregate function on the groupby function:
+```
+byComp.mean() // will retrun the average of sales per company
+byComp.sum() // will return the sum of sales per company
+byComp.std()  // returns standard deviation
+byComp.count()  // returns the count of people working for each company, and number of sales.
+```
+The result of these aggregates will be a dataframe too, so we can say:
+```
+byComp.sum().loc['fb']  // returns the sum of facebook sale
+``` 
+Also we can call describe on gorupby and get information about each group:
+```
+byComp.describe()
+```
+
 
 
 
